@@ -1,0 +1,39 @@
+
+.bungkus{
+    padding: 30px;
+}
+
+tbody{
+    background-color: rgba(56, 56, 56, 0.493);
+}
+
+table{
+    border-left: rgba(24, 14, 14, 0.384);
+    border-right: rgba(128, 128, 128, 0.384);
+}
+
+header{
+  background-color: rgba(88, 88, 88, 0.295);
+}
+
+footer{
+    background-color: rgba(65, 65, 65, 0.192);
+    padding: 0.5rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+hr{
+    color: rgba(128, 128, 128, 0.5);
+}
+
+.container{
+    background-color: rgba(71, 71, 71, 0.377);
+    width:fit-content;
+    margin-left: 47rem;
+    margin-top: -20.5rem;
+    padding: 0.5rem;
+    border: 1px solid rgba(128, 128, 128, 0.384);
+}

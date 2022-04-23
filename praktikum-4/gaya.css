@@ -1,0 +1,30 @@
+header{
+  background-color: rgba(67, 139, 109, 0.233);
+  padding: 0.5rem;
+}
+
+.bungkus{
+  padding: 30px;
+}
+footer{
+    background-color: rgba(73, 185, 138, 0.137);
+    padding: 0.5rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+
+
+.lingkeren{
+  padding: 2em;
+  background-color: bisque;
+  width: 230px;
+}
+.perpan{
+  padding: 2em;
+  background-color: rgb(171, 125, 70);
+  width: 230px;
+}
+
