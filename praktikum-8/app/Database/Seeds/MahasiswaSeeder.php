@@ -12,7 +12,7 @@ class MahasiswaSeeder extends Seeder
         $data = [
             [
                 'nim'               => '0110221051',
-                'nama'              => 'Muhammad Azka Rizqi',
+                'nama'              => 'Zain',
                 'jenis_kelamin'     => 'Laki-Laki',
                 'tgl_lahir'         => '2002-06-03',
                 'tempat_lahir'      => 'Jakarta',
@@ -22,7 +22,7 @@ class MahasiswaSeeder extends Seeder
             ],
             [
                 'nim'               => '0110221000',
-                'nama'              => 'Azka',
+                'nama'              => 'dimas',
                 'jenis_kelamin'     => 'Laki-Laki',
                 'tgl_lahir'         => '2022-03-01',
                 'tempat_lahir'      => 'Gatau',
