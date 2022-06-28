@@ -13,7 +13,7 @@
 <body>
     <div class="container">
         <div class="card">
-            <div class="card-header bg-primary text-white">Tambah Data Mahasiswa</div>
+            <div class="card-header bg-success text-white">Tambah Data Mahasiswa</div>
             <div class="card-body">
                 <form action="<?= base_url('mahasiswa/save'); ?>" method="POST">
                     <div class="form-group">
@@ -48,7 +48,7 @@
                         <label for="ipk">IPK</label>
                         <input type="text" id="ipk" name="ipk" class="form-control">
                     </div>
-                    <button type="submit" class="btn btn-primary mt-3">Simpan</button>
+                    <button type="submit" class="btn btn-success mt-3">Simpan</button>
                 </form>
             </div>
         </div>
